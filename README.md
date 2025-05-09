@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is PETER OBINECHE
 ======================================================================================================================================
 
-Frontend Web Development
+Frontend Web Development GROW - INNOVATE - LEAD “Building a Better You, One Innovation at a Time
 ------------------------
 
-Aspiring software development (Functional Manager) GROW - INNOVATE - LEAD “Building a Better You, One Innovation at a Time”
+Front-End Developer in Training | HTML, CSS, JavaScript, React | Building Real-World Skills with ALX | Future Functional Manager”
 
 * 🌍  I'm based in Lagos Nigeria
 * 🖥️  See my portfolio at [Portfolio](http://sites.google.com/view/kwadot---chi/home)
